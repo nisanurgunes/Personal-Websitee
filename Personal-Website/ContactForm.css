@@ -1,0 +1,34 @@
+.style-div{
+
+    width: 28%;
+    height: 564px;
+    background-color: #fff;
+   
+   position:absolute;
+  left: 35%;
+  top: 10%;
+
+  border-radius:3%;
+
+  box-shadow:lightsteelblue 0 0 5px;
+    transition: all .2s;
+}
+
+.style-div:hover{
+
+    box-shadow:grey 0 0 30px; 
+}
+
+#submit-id{
+
+    margin-left:170px;
+    font-weight: bold;
+     width:100px; height: 40px;
+     background-color:#306EFF;
+    color:#fff;
+    border-radius:40px;
+}
+#submit-id:hover{
+
+    box-shadow: #0000CD 0 0 5px; 
+}
